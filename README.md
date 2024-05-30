@@ -11,7 +11,6 @@ Hello! I'm Ahmed, a computer science enthusiast with a deep passion for technolo
 
 - 💼 **Professional Interests:** My areas of interest include software development and data engineering. I enjoy tackling complex problems and turning innovative ideas into reality.
 - 🗣️ **Multilingual:** Fluent in Arabic, English, and French. My multilingual abilities not only enhance my communication skills but also enable me to collaborate on a global scale.
-- ✉️ **Contact Me:** Feel free to reach out via email at **ahmedklai.connect@gmail.com** for any inquiries, collaborations, or just to say hi!
 - ⚡ **Fun Fact:** I love to dive into new cultures and languages. This curiosity not only fuels my passion for technology but also enriches my understanding of the world.
 - 🌱 **Currently Learning:** Expanding my linguistic horizons by learning Spanish 🇪🇸, in addition to my technical skill set.
 ---
@@ -56,9 +55,6 @@ Hello! I'm Ahmed, a computer science enthusiast with a deep passion for technolo
   </a>
   <a href="https://linkedin.com/in/ahmed-klai" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://twitter.com/ahmedklai07" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
   </a>
 </p>
 
