@@ -3,14 +3,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Klai</h1>
 <h3 align="center">A passionate computer science student from Tunisia</h3>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="230" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-# 💫 About Me:
+<h3>💫 About Me:</h3>
 
-- 🌱 I’m currently learning **Spanish 🇪🇸**
-- 📫 How to reach me: **ahmedklai.connect@gmail.com**
-- ⚡ Fun fact: **I have a knack for learning and speaking multiple languages. Beyond programming languages, I'm fluent in Arabic, English, and French, which not only broadens my understanding of different cultures but also opens up opportunities for global collaborations and experiences. 🌍🗣️**
+Hello! I'm Ahmed, a computer science enthusiast with a deep passion for technology and innovation. Based in Tunisia, I am constantly exploring the vast world of computer science, from software development to AI and beyond.
 
+- 💼 **Professional Interests:** My areas of interest include software development and data engineering. I enjoy tackling complex problems and turning innovative ideas into reality.
+- 🗣️ **Multilingual:** Fluent in Arabic, English, and French. My multilingual abilities not only enhance my communication skills but also enable me to collaborate on a global scale.
+- ✉️ **Contact Me:** Feel free to reach out via email at **ahmedklai.connect@gmail.com** for any inquiries, collaborations, or just to say hi!
+- ⚡ **Fun Fact:** I love to dive into new cultures and languages. This curiosity not only fuels my passion for technology but also enriches my understanding of the world.
+- 🌱 **Currently Learning:** Expanding my linguistic horizons by learning Spanish 🇪🇸, in addition to my technical skill set.
 ---
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,7 +40,9 @@
    <a> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a> 
+  <a>
+   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/davinci_resolve_macos_bigsur_icon_190261.png" alt="Photoshop" width="40" height="40"/></a>
+    <a> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
@@ -46,19 +51,19 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-klai-41818530a/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="mailto:ahmedklai07@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/ahmed-klai" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/ahmedklai07" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### ✍️ Random Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
