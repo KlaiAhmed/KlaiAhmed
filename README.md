@@ -50,7 +50,7 @@ Hello! I'm Ahmed, a computer science enthusiast with a deep passion for technolo
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="mailto:ahmedklai07@gmail.com" target="blank">
+  <a href="mailto:ahmedklai.connect@gmail.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
   </a>
   <a href="https://www.linkedin.com/in/ahmed-klai-41818530a/" target="blank">
