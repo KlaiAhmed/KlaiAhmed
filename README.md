@@ -1,76 +1,51 @@
-<img src="Black Minimal  Quote.png" alt="Banner" />
-
+<img src="Black Minimal  Quote.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ahmed Klai</h1>
-<h3 align="center">A passionate computer science student from Tunisia</h3>
+<h3 align="center">Computer Science Student · Software & DevOps Enthusiast · Tunisia 🇹🇳</h3>
 
-### 💫 About Me:
-
-Hello! I'm Ahmed, a computer science enthusiast with a deep passion for technology and innovation. Based in Tunisia, I am constantly exploring the vast world of computer science, from software development to AI and beyond.
-
-- 💼 **Professional Interests:** My areas of interest include software development and data engineering. I enjoy tackling complex problems and turning innovative ideas into reality.
-- 🗣️ **Multilingual:** Fluent in Arabic, English, and French. My multilingual abilities not only enhance my communication skills but also enable me to collaborate on a global scale.
-- ⚡ **Fun Fact:** I love to dive into new cultures and languages. This curiosity not only fuels my passion for technology but also enriches my understanding of the world.
-- 🌱 **Currently Learning:** Expanding my linguistic horizons by learning Spanish 🇪🇸, in addition to my technical skill set.
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left" >
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         alt="C" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-         alt="C++" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="Java" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-         alt="JavaScript" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-         alt="React" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-         alt="PHP" width="40" height="40"/>
-  </picture>
-  <picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-         alt="MySQL" width="40" height="40"/>
-  </picture>
-</p>
-  
----                                                                             
-
-### 🌐 Connect with Me:
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedklai.connect@gmail.com" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
+<p align="center">
+  <a href="www.linkedin.com/in/ahmed-klai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/ahmed-klai-41818530a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
+  <a href="mailto:ahmedklai.connect@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-### ✍️ Random Quote:
+### 💫 About Me
 
-<picture>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</picture>
+Hello! I'm Ahmed, a computer science student with a growing passion for building scalable systems, automating infrastructure, and bridging the gap between development and operations. Based in Tunisia, I'm constantly pushing my boundaries across software engineering technologies.
 
+- 💼 **Professional Interests:** I'm driven by software development, data engineering, and **DevOps**. I'm fascinated by how modern infrastructure CI/CD pipelines, containerization, and cloud orchestration enables teams to ship faster and more reliably.
+- 🗣️ **Multilingual:** Fluent in Arabic, English, and French  and currently picking up Spanish 🇪🇸. Language learning mirrors programming: both are about communication, precision, and thinking in different paradigms.
+- 🌱 **Currently Learning:** Deepening my DevOps skill set with **Kubernetes** ☸️ : exploring container orchestration, cluster management, and building production-grade deployments.
+- ⚡ **Fun Fact:** I treat infrastructure the same way I treat code, every `Dockerfile` and `pipeline` is a craft. I genuinely believe the best engineers are the ones who care as much about *how* software runs as *what* it does.
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
