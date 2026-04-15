@@ -1,10 +1,10 @@
 <img src="Black Minimal  Quote.png" alt="Banner" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Ahmed Klai</h1>
-<h3 align="center">Computer Science Student · Software & DevOps Enthusiast · Tunisia 🇹🇳</h3>
+<h3 align="center">Computer Science Student · Software & DevOps Enthusiast</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ahmed-klai" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-klai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ahmedklai.connect@gmail.com" target="_blank">
